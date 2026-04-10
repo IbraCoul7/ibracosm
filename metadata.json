@@ -1,0 +1,7 @@
+{
+  "name": "IbraCosm - Luxe & Cosmétiques",
+  "description": "Une plateforme élégante de vente de produits cosmétiques avec gestion d'inventaire, statistiques de vente et commandes via WhatsApp et réseaux sociaux.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
